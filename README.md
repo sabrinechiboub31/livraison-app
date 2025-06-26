@@ -4,11 +4,11 @@ Application **Streamlit** pour prédire le statut des livraisons (À temps, En r
 
 🔗 **Lien vers l’application** : [Ouvrir l'app Streamlit](https://livraison-app-jxlmc7mbrafflnfldvidqjo.streamlit.app)
 
-## 🧠 Objectif
+## Objectif
 
 Anticiper les risques de retard ou de non-livraison des commandes en entreprise pour optimiser le pilotage de la chaîne d'approvisionnement.
 
-## 📊 Fonctionnalités
+## Fonctionnalités
 
 - 🔍 Prédiction du statut de livraison (saisie manuelle ou historique)
 - 📈 Analyse des performances des fournisseurs
@@ -16,12 +16,12 @@ Anticiper les risques de retard ou de non-livraison des commandes en entreprise 
 - 📤 Export CSV des prédictions
 - 📊 Dashboards interactifs (Power BI & matplotlib)
 
-## 💡 Modèle Machine Learning
+## Modèle Machine Learning
 
 - **Algorithme utilisé** : Gradient Boosting Classifier (XGBoost)
 - **Performances** : F1-macro = 0.81 | Accuracy = 81%
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 - Python
 - Scikit-learn, XGBoost, Pandas, Numpy
